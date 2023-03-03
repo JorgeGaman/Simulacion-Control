@@ -24,8 +24,8 @@ I	D-pad arriba
 K	D-pad abajo
 J	D-pad izquierda
 L	D-pad derecha
-Enter	Botón Start
-Ctrl	Botón Select
+Espacio	Botón Start
+LAlt	Botón Select
 LShift	Botón L
 Tab	Botón R
 ```
